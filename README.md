@@ -1,4 +1,4 @@
-# FE-DTA
+# FE-DTA : Transformer Encoder-based Fingerprint Representation for Predicting Bonded and Non-Bonded Drug-Target Interactions
 As a new attention-based model, FEDTA is proposed to predict the binding affinity for bonded and non-bonded drug-target interactions
 
 ## Requirements
@@ -7,15 +7,6 @@ As a new attention-based model, FEDTA is proposed to predict the binding affinit
 -  pytorch == 1.10.1 + cuda == 11.1
 - pandas ==  1.3.5
 - numpy == 1.21.5
-
-```
-
-running:
-```
-    python main.py 
-```
-If you want to training the model we proposed,
-
 
 ## Online Server
 
