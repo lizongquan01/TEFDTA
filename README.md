@@ -1,4 +1,4 @@
-# FE-DTA : Transformer Encoder-based Fingerprint Representation for Predicting Bonded and Non-Bonded Drug-Target Interactions
+# TEFDTA: A Transformer Encoder and Fingerprint Representation Combined Prediction Method for Bonded and Non-Bonded Drug-Target Affinities
 As a new attention-based model, FEDTA is proposed to predict the binding affinity for bonded and non-bonded drug-target interactions
 
 ## Requirements
