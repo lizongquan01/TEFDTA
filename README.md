@@ -1,5 +1,5 @@
 # TEFDTA: A Transformer Encoder and Fingerprint Representation Combined Prediction Method for Bonded and Non-Bonded Drug-Target Affinities
-As a new attention-based model, FEDTA is proposed to predict the binding affinity for bonded and non-bonded drug-target interactions
+As a new attention-based model, TEFDTA is proposed to predict the binding affinity for bonded and non-bonded drug-target interactions
 
 ## Requirements
 
@@ -15,7 +15,7 @@ We deployed a pre-trained model on a dedicated server, which is publicly availab
 
 ## <span id="citelink">Citation</span>
 If you find this repository useful in your research, please consider citing the Github:<br/>
-https://github.com/lizongquan01/FE-DTA<br/>
+https://github.com/lizongquan01/TEFDTA<br/>
 
 
 ## Contact
