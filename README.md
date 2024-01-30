@@ -14,7 +14,7 @@ We deployed a pre-trained model on a dedicated server, which is publicly availab
 
 
 ## <span id="citelink">Citation</span>
-If you find this repository useful in your research, please consider citing our paper <a href="https://academic.oup.com/bioinformatics/article/40/1/btad778/7492659">
+If you find this repository useful in your research, please consider citing <a href="https://academic.oup.com/bioinformatics/article/40/1/btad778/7492659">our paper.</a>
 
 ## Contact
 If you have any questions, please feel free to contact Zongquan Li (Email: lizq1@shanghaitech.edu.cn) .
